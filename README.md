@@ -1,5 +1,6 @@
 # Pazaryeri-Entegrasyonu
-Pazaryeri Entegrasyonu
+Pazaryeri Entegrasyonu 
+Tria Eczane Otomasyon Sistemi ile Dopigo Pazaryeri Arasındaki Entengrasyon.
 ![WhatsApp Görsel 2025-08-14 saat 17 15 03_e3b2da10](https://github.com/user-attachments/assets/e1d928fd-7f2a-44f5-8b56-d046616030e6)
 ![WhatsApp Görsel 2025-08-14 saat 17 15 02_0fe2f28c](https://github.com/user-attachments/assets/f855e998-e62d-4801-865b-d8e3e25536e9)
 ![WhatsApp Görsel 2025-08-14 saat 17 15 03_c01426e8](https://github.com/user-attachments/assets/55351b43-5044-492e-9184-8499beb55d53)
